@@ -1,0 +1,9 @@
+{
+  "resumePath": "/path/to/your/resume.pdf",
+  "titles": ["IT support", "help desk", "systems administrator"],
+  "location": "Virginia",
+  "includeRemote": true,
+  "minScore": 40,
+  "maxAgeDays": 14,
+  "excludeTitleWords": ["senior", "director", "manager", "sales"]
+}
